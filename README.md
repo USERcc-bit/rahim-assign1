@@ -8,6 +8,6 @@
 - [1-5 week short summary comp1238](comp1238.md)
 
 
-GBC email:Rahim.Shire@georgebrown.ca
-Your personal repo URL:https://github.com/USERcc-bit/rahim-assign1
+- GBC email:Rahim.Shire@georgebrown.ca
+- Your personal repo URL:https://github.com/USERcc-bit/rahim-assign1
 
